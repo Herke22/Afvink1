@@ -1,12 +1,12 @@
 1a)
 javac Afvink1_1.java
-java Afvink1_1.java
+java Afvink1_1
 1b)
 javac afvink1_2.java
-java afvink1_2.java
+java afvink1_2
 2a)
-javac afvink2_1.java *naam*
-java afvink2_1.java *naam*
+javac afvink2_1.java 
+java afvink2_1 *naam*
 2b)
-javac afvink2_2.java *naam*
-java afvink2_2.java *naam*
+javac afvink2_2.java 
+java afvink2_2 *naam*
