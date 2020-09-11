@@ -1,0 +1,10 @@
+jvm: java virtual machine, kan .java files runnen.
+jre: java runtime enviroment, een bundle van de jvm en bijbehorende library classes.
+jdk: java development kid, een bundle van jre en devopment tools.
+java: commandline programma om .java files te runnen
+javac: programma om .java files te compilen naar .class files
+broncode: geschreven code leesbaar door mensen
+bytecode: onleesbare code die door software gerund kan worden
+java compiler: programma dat broncode overzet naar bytecode
+half compilaat: halg gecompileerde code.
+class file: file met java bytecode.
